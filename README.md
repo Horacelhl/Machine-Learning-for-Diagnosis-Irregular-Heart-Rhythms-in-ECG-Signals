@@ -53,5 +53,5 @@ CNN2D (ResNet50), CNN2D_ResNet50_v2.py
 All processes are based on Python only.
 
 Data
-China Physiological Signal Challenge 2018 (CPSC2018) Dataset [9]: This dataset consists of 12-channel ECG recordings (lasting from 6s to 60s) from 6877 subjects. Eight kinds of typical CA are included in this dataset. 
+China Physiological Signal Challenge 2018 (CPSC2018) Dataset: This dataset consists of 12-channel ECG recordings (lasting from 6s to 60s) from 6877 subjects. Eight kinds of typical CA are included in this dataset. 
 http://2018.icbeb.org/Challenge.html
